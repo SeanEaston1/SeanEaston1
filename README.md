@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanay Raj Srivastava</h1>
+<h1 align="center">Hi 👋, I'm Tanay</h1>
 <h3 align="center">A passionate Computer Science Engineering Student </h3>
 
 <img align = "right" alt="coding" width=“400” src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76111f2dcbe9c98b89174efbcdc0a1a8711a9dc4fe26&rid=giphy.gif&ct=g" > 
