@@ -4,7 +4,7 @@
 
 <!-- BRIEF -->
 On this profile, you will find a selection of **My projects** and **Personal repositories**. These include <a href="https://github.com/SeanEaston1/LeetCode-Solved-Questions">LeetCode Solved Questions</a>, some Python projects, as well as some of my contributions to open-source projects. 
-I am always looking to expand my skills and knowledge in the field of **Computer Science**, and I am *open to new opportunities for learning and collaboration*. If you have an interesting project that you think I might be able to contribute to, or if you just want to **Connect** and chat about technology, please don't hesitate to reach out to me via GitHub. 
+I am always looking to expand my skills and knowledge in the field of **Computer Science**, and *I am open to new opportunities for learning and collaboration*. If you have an interesting project that you think I might be able to contribute to, or if you just want to **Connect** and chat about technology, please don't hesitate to reach out to me via GitHub. 
 <br>
 
 
