@@ -2,23 +2,17 @@
 <h1 align="center">✨ Welcome to my GitHub profile! ✨</h1>
 
 
-<!-- VISITOR COUNT -->
-<h2 align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/seaneaston1/count.svg" />
+<!-- BRIEF -->
+On this profile, you will find a selection of **my projects** and **personal repositories**. These include <a href="https://github.com/SeanEaston1/LeetCode-Solved-Questions">LeetCode Solved Questions</a>, some Python projects, as well as some of my contributions to open-source projects. 
+I am always looking to expand my skills and knowledge in the field of **Computer Science**, and I am open to new opportunities for learning and collaboration. If you have an interesting project that you think I might be able to contribute to, or if you just want to **connect** and chat about technology, please don't hesitate to reach out to me via GitHub. 
+<br>
+
+
+<!-- ONLINE -->
+<h2>
+  Find me online
 </h2>
 
-
-<!-- BRIEF -->
-- On this profile, you will find a selection of **my projects** and **personal repositories**.
-
-- These include <a href="https://github.com/SeanEaston1/LeetCode-Solved-Questions">LeetCode Solved Questions</a>, some Python projects, as well as some of my contributions to open-source projects.
-
-- I am always looking to expand my skills and knowledge in the field of **Computer Science**, and I am open to new opportunities for learning and collaboration. 
-
-- If you have an interesting project that you think I might be able to contribute to, or if you just want to **connect** and chat about technology, please don't hesitate to reach out to me via GitHub
-
-- You can also connect with me on
 <a href="https://twitter.com/tanytwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanytwts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanay raj srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanay raj srivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/tanayyy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanayyy___" height="30" width="40" /></a>
@@ -48,9 +42,7 @@
 <img width="5%" src="https://github.com/SeanEaston1/SeanEaston1/blob/main/media/icons8-visual-studio-code-2019-480.png?raw=true">
 <img width="5%" src="https://github.com/SeanEaston1/SeanEaston1/blob/main/media/icons8-intellij-idea-480.png?raw=true">
 <img width="5%" src="https://github.com/SeanEaston1/SeanEaston1/blob/main/media/icons8-pycharm-480.png?raw=true">
-
 </p>
-
 
 <!-- GITHUB STATS -->
 <h2>
@@ -62,4 +54,9 @@
 
 <!-- MY ACTIVITY -->
 
-<!--START_SECTION:activity-->
+<!-- VISITOR COUNT 
+<h2 align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/seaneaston1/count.svg" />
+</h2> 
+-->
