@@ -1,12 +1,17 @@
 <!-- MAIN HEADING -->
 <h1 align="center">✨ Welcome to my GitHub profile! ✨</h1>
 
+
+<!-- VISITOR COUNT -->
+<!--  
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/seaneaston1/count.svg" />
-</p>
+</p> 
+ -->
+ 
 
-<!-- Bio -->
+<!-- BIO -->
 On this profile, you will find a selection of **My projects** and **Personal repositories**. These include <a href="https://github.com/SeanEaston1/LeetCode-Solved-Questions">LeetCode Solved Questions</a>, some Python projects, as well as some of my contributions to open-source projects. 
 <br><br>
 I am passionate about using technology to solve problems and am proficient in languages such as **Java and Python**. I am always looking to expand my skills and knowledge in the field of **Computer Science**, and *I am open to new opportunities for learning and collaboration*. 
@@ -14,26 +19,30 @@ I am passionate about using technology to solve problems and am proficient in la
 If you have an interesting project that you think I might be able to contribute to, or if you just want to **Connect** and chat about technology, please don't hesitate to reach out to me via GitHub. 
 
 
-
 <!-- ONLINE -->
 <h2>
   Find me online
 </h2>
-
 <a href="https://twitter.com/tanytwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanytwts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanay raj srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanay raj srivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/tanayyy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanayyy___" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/seaneaston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seaneaston" height="30" width="40" /></a>
 
 
+<!-- BLOG POST -->
+<h1>
+  My Blogs
+</h1>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  
+  
 <!-- LANGUAGES & TOOLS -->
 <h2>
   Languages and Tools
 </h2>
-
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seaneaston1&show_icons=true&locale=en&layout=compact" alt="seaneaston1" />
- 
 <img width="5%" src="https://github.com/SeanEaston1/SeanEaston1/blob/main/media/icons8-java-480.png?raw=true">
 <img width="5%" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png"> 
 <img width="5%" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/cpp/cpp.png"> 
@@ -51,6 +60,7 @@ If you have an interesting project that you think I might be able to contribute 
 <img width="5%" src="https://github.com/SeanEaston1/SeanEaston1/blob/main/media/icons8-pycharm-480.png?raw=true">
 </p>
 
+
 <!-- GITHUB STATS -->
 <h2>
   GitHub Stats
@@ -59,11 +69,4 @@ If you have an interesting project that you think I might be able to contribute 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seaneaston1&" alt="seaneaston1" /></p>
 
 
-<!-- MY ACTIVITY -->
 
-<!-- VISITOR COUNT 
-<h2 align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/seaneaston1/count.svg" />
-</h2> 
--->
