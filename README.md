@@ -1,6 +1,10 @@
 <!-- MAIN HEADING -->
 <h1 align="center">✨ Welcome to my GitHub profile! ✨</h1>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/seaneaston1/count.svg" />
+</p>
 
 <!-- Bio -->
 On this profile, you will find a selection of **My projects** and **Personal repositories**. These include <a href="https://github.com/SeanEaston1/LeetCode-Solved-Questions">LeetCode Solved Questions</a>, some Python projects, as well as some of my contributions to open-source projects. 
