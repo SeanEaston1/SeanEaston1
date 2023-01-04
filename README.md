@@ -30,9 +30,6 @@ If you have an interesting project that you think I might be able to contribute 
 
 
 <!-- BLOG POST -->
-<h1>
-  My Blogs
-</h1>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
   
