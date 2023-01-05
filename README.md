@@ -63,5 +63,6 @@ If you have an interesting project that you think I might be able to contribute 
 <!-- BLOG POST -->
 ## Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 💯 [The GitHub Profile Makeover](https://seaneaston.hashnode.dev/the-github-profile-makeover)
+ - 💫 [Streamline Your Leetcode Practice with LeetHub](https://seaneaston.hashnode.dev/streamline-your-leetcode-practice-with-leethub)<!-- BLOGPOSTS:END -->
 
