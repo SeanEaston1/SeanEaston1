@@ -27,12 +27,6 @@ If you have an interesting project that you think I might be able to contribute 
 <a href="https://linkedin.com/in/tanay raj srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanay raj srivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/tanayyy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanayyy___" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/seaneaston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seaneaston" height="30" width="40" /></a>
-
-
-<!-- BLOG POST -->
-## Recent Blog Posts
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
   
   
 <!-- LANGUAGES & TOOLS -->
@@ -66,5 +60,8 @@ If you have an interesting project that you think I might be able to contribute 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seaneaston1&show_icons=true&locale=en" alt="seaneaston1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seaneaston1&" alt="seaneaston1" /></p>
 
-
+<!-- BLOG POST -->
+## Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
