@@ -18,7 +18,6 @@ I am passionate about using technology to solve problems and am proficient in la
 <br><br>
 If you have an interesting project that you think I might be able to contribute to, or if you just want to **Connect** and chat about technology, please don't hesitate to reach out to me via GitHub. 
 <br>
-<br>
 
 
 <!-- ONLINE -->
@@ -29,7 +28,6 @@ If you have an interesting project that you think I might be able to contribute 
 <a href="https://linkedin.com/in/tanay raj srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanay raj srivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/tanayyy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanayyy___" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/seaneaston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seaneaston" height="30" width="40" /></a>
-<br>
 <br>
 
   
@@ -55,8 +53,6 @@ If you have an interesting project that you think I might be able to contribute 
 <img width="5%" src="https://github.com/SeanEaston1/SeanEaston1/blob/main/media/icons8-intellij-idea-480.png?raw=true">
 <img width="5%" src="https://github.com/SeanEaston1/SeanEaston1/blob/main/media/icons8-pycharm-480.png?raw=true">
 </p>
-<br>
-<br>
 
 
 <!-- BLOG POST -->
@@ -67,7 +63,6 @@ If you have an interesting project that you think I might be able to contribute 
 <!-- BLOGPOSTS:END -->
 <br>
 Looking for more of my thoughts and musings? Check out <a href="https://seaneaston.hashnode.dev">my profile</a> for more blog posts!
-<br>
 <br>
 
 
