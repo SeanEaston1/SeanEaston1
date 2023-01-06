@@ -1,14 +1,5 @@
 <!-- MAIN HEADING -->
 <h1 align="center">✨ Welcome to my GitHub profile! ✨</h1>
-
-
-<!-- VISITOR COUNT -->
-<!--  
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/seaneaston1/count.svg" />
-</p> 
- -->
  
 
 <!-- BIO -->
@@ -30,13 +21,24 @@ If you have an interesting project that you think I might be able to contribute 
 <a href="https://www.leetcode.com/seaneaston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seaneaston" height="30" width="40" /></a>
 <br>
 
+
+<!-- VISITOR COUNT -->
+<!--  
+<p align="right"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/seaneaston1/count.svg" />
+</p> 
+-->
+
   
 <!-- LANGUAGES & TOOLS -->
 <h2>
   Languages and Tools
 </h2>
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seaneaston1&show_icons=true&locale=en&layout=compact" alt="seaneaston1" />
+<!--    
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seaneaston1&show_icons=true&locale=en&layout=compact" alt="seaneaston1" /> 
+-->
 <img width="5%" src="https://github.com/SeanEaston1/SeanEaston1/blob/main/media/icons8-java-480.png?raw=true">
 <img width="5%" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png"> 
 <img width="5%" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/cpp/cpp.png"> 
@@ -69,5 +71,7 @@ Looking for more of my thoughts and musings? Check out <a href="https://seaneast
 <h2>
   GitHub Stats
 </h2>
+<!--  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seaneaston1&show_icons=true&locale=en" alt="seaneaston1" /></p>
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seaneaston1&" alt="seaneaston1" /></p>
