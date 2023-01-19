@@ -59,10 +59,11 @@ If you have an interesting project that you think I might be able to contribute 
 <!-- BLOG POST -->
 ## Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Introduction to Java](https://seaneaston.hashnode.dev/introduction-to-java)
- - 💫 [Introduction to Programming](https://seaneaston.hashnode.dev/introduction-to-programming)
- - 🚀 [The GitHub Profile Makeover](https://seaneaston.hashnode.dev/the-github-profile-makeover)
- - 🔥 [Streamline Your Leetcode Practice with LeetHub](https://seaneaston.hashnode.dev/streamline-your-leetcode-practice-with-leethub)<!-- BLOGPOSTS:END -->
+ - 💯 [First Java Program](https://seaneaston.hashnode.dev/first-java-program)
+ - 💫 [Introduction to Java](https://seaneaston.hashnode.dev/introduction-to-java)
+ - 🚀 [Introduction to Programming](https://seaneaston.hashnode.dev/introduction-to-programming)
+ - 🔥 [The GitHub Profile Makeover](https://seaneaston.hashnode.dev/the-github-profile-makeover)
+ - 🌮 [Streamline Your Leetcode Practice with LeetHub](https://seaneaston.hashnode.dev/streamline-your-leetcode-practice-with-leethub)<!-- BLOGPOSTS:END -->
 <br>
 Looking for more of my thoughts and musings? Check out <a href="https://seaneaston.hashnode.dev">my profile</a> for more blog posts!
 <br>
