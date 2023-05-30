@@ -59,11 +59,11 @@ If you have an interesting project that you think I might be able to contribute 
 <!-- BLOG POST -->
 ## Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Python Fundamentals: Printing, Inputs/Outputs and Variables](https://seaneaston.hashnode.dev/python-fundamentals-printing-inputsoutputs-and-variables)
- - 💫 [Crunching Conditional Statements and Loops in Java](https://seaneaston.hashnode.dev/crunching-conditional-statements-and-loops-in-java)
- - 🚀 [First Java Program](https://seaneaston.hashnode.dev/first-java-program)
- - 🔥 [Introduction to Java](https://seaneaston.hashnode.dev/introduction-to-java)
- - 🌮 [Introduction to Programming](https://seaneaston.hashnode.dev/introduction-to-programming)<!-- BLOGPOSTS:END -->
+ - 💯 [From Idea to Implementation: Building an Amazon Price Tracker with Python and Flask](https://seaneaston.hashnode.dev/from-idea-to-implementation-building-an-amazon-price-tracker-with-python-and-flask)
+ - 💫 [Python Fundamentals: Printing, Inputs/Outputs and Variables](https://seaneaston.hashnode.dev/python-fundamentals-printing-inputsoutputs-and-variables)
+ - 🚀 [Crunching Conditional Statements and Loops in Java](https://seaneaston.hashnode.dev/crunching-conditional-statements-and-loops-in-java)
+ - 🔥 [First Java Program](https://seaneaston.hashnode.dev/first-java-program)
+ - 🌮 [Introduction to Java](https://seaneaston.hashnode.dev/introduction-to-java)<!-- BLOGPOSTS:END -->
 <br>
 Looking for more of my thoughts and musings? Check out <a href="https://seaneaston.hashnode.dev">my profile</a> for more blog posts!
 <br>
