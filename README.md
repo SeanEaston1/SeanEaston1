@@ -11,11 +11,6 @@ If you have an interesting project that you think I might be able to contribute 
 <br><br>
 
 
-<!-- RANDOM QUOTE -->
-<!-- ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-
-
 <!-- ONLINE -->
 ## 🌐 Socials:
 <div style="display: flex; justify-content: flex-end;">
@@ -71,8 +66,8 @@ Looking for more of my thoughts and musings? Check out <a href="https://seaneast
 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seaneaston1&show_icons=true&locale=en" alt="seaneaston1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seaneaston1&" alt="seaneaston1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seaneaston1&show_icons=true&locale=en" alt="seaneaston1" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seaneaston1&" alt="seaneaston1" /></p>
 <br>
 
 
