@@ -13,11 +13,6 @@ If you have an interesting project that you think I might be able to contribute 
 
 <!-- ONLINE -->
 ## 🌐 Socials:
-<div style="display: flex; justify-content: flex-end;">
-    <a href="https://visitcount.itsvg.in">
-        <img align="right" src="https://visitcount.itsvg.in/api?id=SeanEaston1&icon=3&color=0" alt="Visit Count">
-    </a>
-</div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavatanay07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanay-raj-srivastava-26859b205) 
