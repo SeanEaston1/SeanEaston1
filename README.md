@@ -55,7 +55,8 @@ If you have an interesting project that you think I might be able to contribute 
  - 💫 [Python Fundamentals: Printing, Inputs/Outputs and Variables](https://seaneaston.hashnode.dev/python-fundamentals-printing-inputsoutputs-and-variables)
  - 🚀 [Crunching Conditional Statements and Loops in Java](https://seaneaston.hashnode.dev/crunching-conditional-statements-and-loops-in-java)
  - 🔥 [First Java Program](https://seaneaston.hashnode.dev/first-java-program)
- - 🌮 [Introduction to Java](https://seaneaston.hashnode.dev/introduction-to-java)<!-- BLOGPOSTS:END -->
+ - 🌮 [Introduction to Java](https://seaneaston.hashnode.dev/introduction-to-java)
+<!-- BLOGPOSTS:END -->
 Looking for more of my thoughts and musings? Check out <a href="https://seaneaston.hashnode.dev">my profile</a> for more blog posts!
 <br><br>
 
